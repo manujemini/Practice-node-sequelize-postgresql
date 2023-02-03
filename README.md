@@ -124,11 +124,3 @@ export const Workpackage = sequelize.define(
 
 * [Sequelize documentation: Model Basics](https://sequelize.org/docs/v6/core-concepts/model-basics/)
 * [Sequelize documentation: Model Querying finders](https://sequelize.org/docs/v6/core-concepts/model-querying-finders/)
-
-## :file_folder: License
-
-* This project is licensed under the terms of the MIT license.
-
-## :envelope: Contact
-
-* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
